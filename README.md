@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sujal-sudo aka Sujal Neupane
-- 👀 I’m interested in
-- 🌱 I’m currently learning DevOPS, Android through KOTLIN, Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me You can reach me through instagram --> Suj.alneupane
+- 🌱 I’m currently learning DevOPS
+- 📫 How to reach me np.sujal2004@gmail.com
   
 
 <!---
