@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujal-sudo
+- 👋 Hi, I’m @Sujal Neupane
 - 👀 I’m interested in
 - 🌱 I’m currently learning DevOPS, Android through KOTLIN, Web Development
 - 💞️ I’m looking to collaborate on ...
