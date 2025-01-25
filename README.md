@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujal-sudo aka Sujal Neupane
-- 🌱 I’m currently learning DevOPS
+- 🌱 I’m currently learning WebDevelopment
 - 📫 How to reach me np.sujal2004@gmail.com
   
 
